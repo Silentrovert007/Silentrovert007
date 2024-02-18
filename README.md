@@ -30,3 +30,4 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-lightgrey?style=flat-square&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
