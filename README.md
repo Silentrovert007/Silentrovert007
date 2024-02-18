@@ -1,4 +1,4 @@
-### Hello there 😀
+## Hello there 😀
 
 <!--
 **Silentrovert007/Silentrovert007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,18 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Tech Stack:
+<!--
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+-->
+![HTML5](https://img.shields.io/badge/-HTML5-red)
+![CSS3](https://img.shields.io/badge/-CSS3-blue)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
 
+</hr>
+
+### Tools:
+![Markdown](https://img.shields.io/badge/-Markdown-lightgrey?style=flat-square&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm&logoColor=white)
